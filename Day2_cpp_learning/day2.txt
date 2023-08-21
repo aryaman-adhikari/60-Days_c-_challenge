@@ -1,0 +1,22 @@
+In day 2 i learned about the basic features of c++ language and the differences between c and c++. Also the history of c++ and it's evolution.
+Let's begin with it's evolution.
+⚡⚡It was developed by Bjarne stroustrup at Bell lab(At&T). He was working in the project with simula 67 (the first oop language developed by ole-ohan Dahl &kristen Nygaard at olso in 1960s.)
+⚡⚡Stroustrup needed a language which is compatible with objects and classes also containing the function of C langauge. So, in 1979AD he developed a language and named it C with classes .Later in the1983AD it was renamed as c++.
+⚡⚡First version of proper c++ was developed in 1998 and named as c++98. Later c++03(2003AD),c++05(2005AD),c++11(2011AD),c++14(2014AD),c++17(2017AD).
+⚡⚡Note:: c++x version cannot be installed because of various technical problems and c++23(2023AD) is going to be launched soon in future.
+  
+NOW,Let's look over the features of c++ language:
+1.It follows the concept of OOPs.
+2.Multi-paradigm(POPs &OOPs)
+3.Not purely OOP(friend function declined the concept of OOPs)
+4.General purpose programming language
+5.Mid level programming Language
+6.High level applications like Desktop applications ,games, translators as well as database languages like oracle, SQLetc are developed by c++.
+7.It is complied language.
+8.It is portable but not machine independent.
+9.It is extensible.
+10.Case sensitive language.
+11.Pointer concept .
+12.Strongly typed programming language. 
+
+Now, let's move towards the simple program of c++ to the programs that uses the objects from io stream .

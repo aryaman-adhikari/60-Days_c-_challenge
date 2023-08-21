@@ -1,0 +1,24 @@
+Also let's move towards variable ,constants ,identifiers ,datatype,keywords and expressions.
+
+now let's study about variables,constants ,keywords and identifiers in short.
+##variable
+-->An entity or quantity that can be changed according to the need in the program is called variable.
+   ##Naming rule variable in c++..
+  1.First letter of variable must be alphabet(i.e not interger or special symbol).
+  2.variable must be limited within 32 characters.
+  3.only underscore(_) is used as special symbol while declering variables.
+  4.No white spaces are allowed in between the name of single variables.
+  5.No keywords are allowed.
+  6.Case sensitivity.
+
+#declaring the variables steps are shown in the program.
+Now, 
+##Constants
+-->An entity or quantity that doesn't changes while the program is executing is konwn as constant.
+  It is defined by the keyword (const) keywords.And also in definition section of program like (#define pi 3.14).
+## defining the constant is shown in the program
+
+Now,Keywords-->The reserved word in c++ library that cannot be used as variable name is keywords.(predefined words).for example:for,while,do-while,if,else,switch,break,goto,class etc are keywords.
+## For more information it is writtened in the program.
+
+Now, Identifiers-->In C++, identifiers are names given to various programming elements such as variables, functions, classes, objects, labels, etc.
