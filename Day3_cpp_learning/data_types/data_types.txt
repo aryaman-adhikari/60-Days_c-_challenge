@@ -1,0 +1,24 @@
+## Data Types 
+-->Data types are those concepts or elements in c++ that defines the type of data which is holded by any variable.
+For example : int a=5;
+             #In this example the variable a holds the integer data that is 5.
+Likewise,In character::
+             for example: char a;
+            -->It means that the variable a is character type variable.
+##In c++ there are different categories of Data Types some of them are:
+
+                       Data Types
+1.Basic Data types.
+2.Secondary Data types.
+3.Enumeration Data types.
+4.User defined Data types.
+
+Let's talk about Basic Data types.
+-->It is also known as primary or built in data types. These type of data types are already reserved in c++ library. for example :int ,float,char,double etc are bulit in data types in c++.
+Let's talk about Secondary Data types.
+-->It is also known as derived data types since it is derived from primary data types.  arrays,pointers, classes etc are secondary data types in c++.
+Let's talk about Enumeration Data types.
+-->It is a type of user defined data type that consists of set of named integer constant. The named integer constants are also called enumerators that helps to make the code more redable and self-descriptive by assigning meaningful names to integral values.
+Let's talk about User defined data types.
+-->The data types that are constructed by users is known as user defined data type. for example:structure,classes,enums etc.
+

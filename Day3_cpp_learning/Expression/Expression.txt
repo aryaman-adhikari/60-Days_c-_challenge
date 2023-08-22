@@ -1,0 +1,39 @@
+#So, basically expression in c++ is the combinations of equations , operands, values ,function calls etc that is processed in order to give result is expressions. There are various types of expression in c++
+1.Constant Expression
+-->A constant expression in C++ is an expression that can be evaluated by the compiler at compile-time and results in a constant value. In other words, a constant expression is an expression whose value is known and fixed at compile-time, and it does not depend on run-time variables or computations.
+-->for example in a program if we assign a value in a arg variable like :
+arg=25;  and if x=20+5/10 then these are known as constant expression where value is not given in execution time .It is already given in the time of writting code.
+
+2.Integral Expression
+-->The expression which gives result in integer is integral expression. for example: m=5 then  ex: m= m*5 etc.
+
+3.Float Expression
+-->The expression that gives result in floating point is float expression. for example: if x=1.0,y=2.0 then z=x+y gives result in floating point.
+
+4.Pointer Expression
+-->The expression that gives result in the form of address of any thing is pointer expression. Ex: m=5 then x=&m gives the address of m in x.
+
+5.Relational Expression 
+-->The expression that gives result in the boolean form (i.e either true or false) is relational expression.
+for ex: x=5,y=10
+if(x<=y) Then it gives true
+if(x>y)   then it gives false
+
+6.logical Expression
+-->Combination of two or more relational expression is logical expresssion.It
+ also gives result in boolean form.
+for example:
+a=5,b=1,x=10
+then, 
+(a>b && x==10)
+gives us true result
+
+
+7.Bit wise expression
+-->Manipulate the data in bit level. Testing of data or shifting of bits .
+for example:
+x=1000.55
+then 
+x<<3 
+then it gives x=1.00055
+
