@@ -1,0 +1,16 @@
+#day4 Let's learn about some other expressions.
+## some special assignment expressions.
+-->The special assignment expressions are the expression that can be further classified according to the value assigned to a variable.
+it's types are::
+1.chained assignment expression.
+-->Chained assignment expressions are the expressions in which same value is assigned to more than one variable.
+
+
+2.Embedded assignment expression.
+-->Embedded assignment expression are the expressions in which assignment expression is embedded into another assignment expression.
+
+
+3.Compound assignment expression.
+-->Compound assignment expression are the expressions which are the combination of assignment & arithematic expression.
+
+To look at the program example click in the github link::

@@ -1,0 +1,78 @@
+## Control Structure in C++
+-->Control structure in c++ constructs that determine the flow of execution in program .
+It is divided into three categories:
+1.Branching Control Structure.
+2.Looping Control Structure.
+3.Jumping Control Structure.
+
+
+#Branching Control Structure.
+-->In branching control structure we get the conditional and unconditional statements that help in the flow of execution in the program.
+1.Conditional branching Control Statements.
+->if()
+->else-if()
+->nested if()
+->Ladder if()
+->switch()
+
+2.Unconditional branching Control Statements.
+->goto()
+
+#1.if()-->it will execute the statements if the condition is true.
+#if()-else-->if()will execute the statements if the condition is true and else stands for false statements.
+#nested if()-->if inside another if is nested if
+#ladder if()--> If the program has multiple condition then ladder if is used
+#switch-->It is used instead of ladder if . If the program has multiple cases then switch used.
+
+
+
+#Looping Control Structure.
+-->Looping means repetation of statements until a given condition is satisfied. C++ program provides a facilities of looping inside control structure.
+there are three types of loop in c++.
+1.for(assignment_statement;conditional statement;increment/decrement statement)
+2.while()
+3.Do-while();
+
+1.for() loop
+-->for(assignment_statement;conditional statement;increment/decrement statement)
+Note:: In for loop we necessarily use two semicolon inside ().
+It is a entry control loop in which a loop is formed only if the condition is true other wise terminates the loop.
+flowchart is shown in diagram.
+
+2.while()
+->It is a entry control looping statement in which a loop is formed only if the condition is true. It terminates the loop when the condition is false.
+flowchart is shown in diagram.
+
+3.Do-while()
+->It is a exit control looping statement in which a loop is formed once either the condition is true or false but after that if the condition is true then the loop will be formed agian otherwise the loop will be terminated.
+flowchart is shown in diagram.
+
+#jumping statements.
+-->They are used to transfer the control of program from one place to another.
+It is of four types:
+1.Break;
+2.Continue;
+3.Return;
+4.goto;
+
+1.Break;
+-->It is a jumping statement. It terminates the inner most loop inside which this statement is used if the condition is satisfied. Means one loop is necessary for using it.
+syntax is shown in diagram.
+
+2.Continue;
+-->It is a jumping statement. It terminates the current loop and transfer the condition at the beginning of loop. For using it one loop is necessary.
+syntax is shown in diagram.
+
+3.return;
+-->It is used for two purposes:
+a.To return value to the calling function.
+b.To transfer the control to the area from which the function was called.
+ syntax is shown in diagram.
+
+4.goto
+-->It is used as loop. we need to give a label condition and after that it will be formed as worked as loop.
+Example is in below & syntax is shown in diagram.
+
+
+
+
